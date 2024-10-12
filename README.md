@@ -73,5 +73,5 @@ Desarrollado por Julia Gomez, como parte de actividad de clase de Platzi.
 
 Email: juliagomez19@gmail.com
 LinkedIn: https://www.linkedin.com/in/juliagomezg/
-Proyecto en GitHub: 
+Proyecto en GitHub: https://github.com/juliagomezg/platzitravel.git
 ¡Gracias por visitar Platzitravel! Esperamos que disfrutes planificando tu próxima aventura y encontrando el mejor lugar para alojarte. 🌍
